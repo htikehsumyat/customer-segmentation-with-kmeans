@@ -1,5 +1,6 @@
 # Customer Segmentation with K-Means Clustering & Pareto Analysis
 This project demonstrates an **end-to-end customer segmentation workflow** using **K-Means clustering**, an unsupervised machine learning algorithm, to identify natural groups of customers based on purchasing behavior. By analyzing key metrics such as **Total Sales, Order Count, and Average Order Value**, the model uncovers meaningful customer segments that can support targeted marketing strategies and customer relationship management.
+
 To complement the clustering analysis, the project applies **Pareto Analysis (80/20 Rule)** to determine which customer segments contribute the largest share of total revenue. Combining **machine learning with business analytics** transforms raw customer transaction data into actionable insights, enabling organizations to prioritize high-value customers, optimize marketing efforts, and make more informed, data-driven decisions.
 
 # Project Workflow
